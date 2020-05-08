@@ -1,24 +1,30 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+> This is a project for Microverse create a basig redit back end clone
 
-Things you may want to cover:
+## Built with
 
-* Ruby version
+- vscode
+- ruby on rails
 
-* System dependencies
+👤 **Johann Rodríguez**
+- Github: [@JohannRodriguez](https://github.com/JohannRodriguez)
+- Twitter: [@BSapce](https://https://twitter.com/BSapce)
+- Linkedin: [Johann Rodríguez](https://www.linkedin.com/in/johann-alonso-rodr%C3%ADguez-v%C3%A1zquez-25b07719a/)
 
-* Configuration
+👤 **Carlos Prieto**
+- Github: [@carlosprietobarron](https://github.com/carlosprietobarron)
+- Linkedin: [Carlos Prieto](https://www.linkedin.com/in/carlos-prieto-41a2b018b/)
 
-* Database creation
 
-* Database initialization
+Contributions, issues and feature requests are welcome!
 
-* How to run the test suite
+Feel free to check the [issues page](https://github.com/JohannRodriguez/DungeonDicesBot-ruby-capstone/issues).
 
-* Services (job queues, cache servers, search engines, etc.)
+## Show your support
 
-* Deployment instructions
+Give a ⭐️ if you like this project!
 
-* ...
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
