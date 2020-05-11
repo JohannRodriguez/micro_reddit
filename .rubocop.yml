@@ -64,7 +64,5 @@ Layout/SpaceAroundMethodCallOperator:
   Enabled: false
 Style/ExponentialNotation:
   Enabled: false
-Style/ExponentialNotation:
-  Enabled: false
 Style/SlicingWithRange:
   Enabled: false
