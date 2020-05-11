@@ -2,6 +2,8 @@
 
 > This is a project for Microverse create a basig redit back end clone
 
+![screenshot](./screenshot.jpg)
+
 ## Built with
 
 - vscode
