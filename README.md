@@ -4,6 +4,10 @@
 
 ![screenshot](./screenshot.jpg)
 
+## Getting started
+
+- This project was build following the guidelines of the Odin project [Active records](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails)
+
 ## Built with
 
 - vscode
