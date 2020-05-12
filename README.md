@@ -21,6 +21,7 @@
 👤 **Carlos Prieto**
 - Github: [@carlosprietobarron](https://github.com/carlosprietobarron)
 - Linkedin: [Carlos Prieto](https://www.linkedin.com/in/carlos-prieto-41a2b018b/)
+- Email: [Carlos Prieto Barrón](carloprietobarron@gmail.com)
 
 
 Contributions, issues and feature requests are welcome!
