@@ -26,7 +26,7 @@
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/JohannRodriguez/DungeonDicesBot-ruby-capstone/issues).
+Feel free to check the [issues page](https://github.com/JohannRodriguez/micro_reddit/issues).
 
 ## Show your support
 
